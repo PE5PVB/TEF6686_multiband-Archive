@@ -5,6 +5,8 @@ Update Nextion display:
 3. Power on your tuner
 4. When the tuner is booting again, remove the SD card
 
+Use R versions to have a 180 degrees rotated screen.
+
 
 Nextion Discovery (yellow PCB):
 NX3224F024: 2.4"
