@@ -290,7 +290,7 @@ void setup() {
   pinMode(RFC, OUTPUT);
 
   Display.writeNum("sleep", 0);
-
+  delay(500);
   EEPROM.begin(184);
   if (EEPROM.readByte(41) != 5) {
     swSer.print("AT+DELVMLINK");
