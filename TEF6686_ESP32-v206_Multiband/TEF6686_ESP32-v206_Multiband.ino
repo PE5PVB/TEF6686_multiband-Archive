@@ -49,7 +49,7 @@
 * v2.06:
 * - Fix wrong C/N meter display when nothing to measure
 * - Fixed a problem which causes to write AUTO BW logo all the time and slow things up
-* - Fixed a minor problem which could cause WiFi apps not
+* - Fixed a minor problem which could cause WiFi apps not to work
 * - Fixed a bug which causes the microcode to not upload correctly
 */
 
