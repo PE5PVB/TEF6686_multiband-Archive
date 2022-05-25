@@ -51,6 +51,7 @@
 * - Fixed a problem which causes to write AUTO BW logo all the time and slow things up
 * - Fixed a minor problem which could cause WiFi apps not to work
 * - Fixed a bug which causes the microcode to not upload correctly
+* - Function added to choose between regular and optical rotary encoder (hold rotary button during boot)
 */
 
 #include <SoftwareSerial.h>
